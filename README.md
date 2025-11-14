@@ -141,6 +141,27 @@ A schematic example of one instance is:
 }
 ```
 
+## 2. Issues or Questions?
+
+If you encounter any issues while using MTKE (SG/DG) or have questions about the benchmark, please feel free to:
+
+- Open a GitHub **issue** in this repository.
+
+---
+
+## 3. Citation
+
+If you use MTKE in your research, please cite:
+
+```bibtex
+@inproceedings{zhao2026mtke,
+  title     = {Multi-granularity Temporal Knowledge Editing over Large Language Models},
+  author    = {Zhao, Simiao and Pang, Ning and Tan, Zhen and Hu, Yanli and Xiao, Weidong and Zhao, Xiang},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  year      = {2026}
+}
+```
+
 
 
 
