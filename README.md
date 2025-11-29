@@ -44,12 +44,10 @@ We assume the datasets are placed under the `datasets/` directory. A typical str
 
 ```text
 
-MTKE/
-├─ datasets/
+datasets/
 ├─ cMTKE_chains.json      # Original fact chains
 ├─ MTKE-SG.json      # Single-granularity temporal editing benchmark
-├─ MTKE-MG.json      # Multi-granularity temporal editing benchmark (a.k.a. DG)
-└─ README.md
+└─ MTKE-MG.json      # Multi-granularity temporal editing benchmark (a.k.a. DG)
 ```
 
 ### 1.3 Data format
