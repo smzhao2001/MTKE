@@ -46,7 +46,8 @@ We assume the datasets are placed under the `datasets/` directory. A typical str
 
 MTKE/
 ├─ datasets/
-│  ├─ MTKE-SG.json      # Single-granularity temporal editing benchmark
+├─ cMTKE_chains.json      # Original fact chains
+├─ MTKE-SG.json      # Single-granularity temporal editing benchmark
 │  └─ MTKE-MG.json      # Multi-granularity temporal editing benchmark (a.k.a. DG)
 └─ README.md
 ```
