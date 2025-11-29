@@ -48,7 +48,7 @@ MTKE/
 ├─ datasets/
 ├─ cMTKE_chains.json      # Original fact chains
 ├─ MTKE-SG.json      # Single-granularity temporal editing benchmark
-│  └─ MTKE-MG.json      # Multi-granularity temporal editing benchmark (a.k.a. DG)
+├─ MTKE-MG.json      # Multi-granularity temporal editing benchmark (a.k.a. DG)
 └─ README.md
 ```
 
